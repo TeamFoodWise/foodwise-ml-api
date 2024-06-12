@@ -1,12 +1,11 @@
 
 # Model Integration with FastAPI
 ## Root Dir
-Root directory looks like this:
+Root directory should looks like this:
 ```
 root/
   |___ data/
   |     |___ clean_data.csv
-  |___ notebook/
   |___ src/
   |     |___ main.py
   |     |___ model.py
@@ -15,6 +14,8 @@ root/
   |___ readme.md
   |___ requirements.txt
 ```
+## Manually add `clean_data.csv` (for now)
+Make a `data` directory under root folder and place the `clean_data.csv` inside of it. (still figuring out how to remotely download the dataset)
 
 ## To run the server
 1. To run the app in your localhost, create a virtual environment
