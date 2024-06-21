@@ -1,4 +1,7 @@
-
+# Machine Learning Features ⭐
+- Recipe recommendation system with content-based filtering: Match the data in the user inventory with the dataset.
+- Food freshness detection system feature using TensorFlow Lite: Users can maintain the quality of their food ingredients.
+  
 # Model Integration with FastAPI
 ## Root Dir
 Root directory should looks like this:
